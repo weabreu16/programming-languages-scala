@@ -22,3 +22,15 @@ Example:
 ```
 scala Hello
 ```
+
+### Run CMD Arguments
+To run the CMDExample with arguments, use the following syntax:
+```
+scala CMDExample <list of args>
+```
+
+Example:
+```
+scala CMDExample Hello William
+```
+
